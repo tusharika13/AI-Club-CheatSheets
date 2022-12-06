@@ -16,6 +16,20 @@ https://www.youtube.com/watch?v=HW29067qVWk
 - Introduction to Colab <br />
 https://www.youtube.com/watch?v=WFvY3qgtMqM 
 
+
+<h5>Exploratory Data Analysis (EDA) </h5>
+https://www.kaggle.com/code/alokevil/simple-eda-for-beginners/notebook <br />
+https://www.youtube.com/watch?v=YRBdTw9TZPE <br />
+
+- Introduction to AI <br />
+https://becominghuman.ai/introduction-to-artificial-intelligence-5fba0148ec99 <br />
+https://www.youtube.com/watch?v=SSE4M0gcmvE <br />
+
+- Diving deeper into Al : Applications of Al and ML <br />
+https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/ai-vs-machine-learning-vs-deep-learning <br />
+https://www.youtube.com/watch?v=cPZvDg6Tw5Q <br />
+https://www.techtarget.com/searchenterpriseai/definition/machine-learning-ML <br />
+
 - Basics of Python <br />
 https://www.youtube.com/watch?v=7eh4d6sabA0 
 
@@ -44,20 +58,6 @@ http://datacamp-community-prod.s3.amazonaws.com/e1a8f39d-71ad-4d13-9a6b-618fe1b8
 https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf <br />
 https://towardsdatascience.com/matplotlib-cheat-sheet-f441c43971c4 <br />
 https://cheatography.com/aggialavura/cheat-sheets/python-matplotlib/pdf_bw/ <br />
-
-
-<h5>Exploratory Data Analysis (EDA) </h5>
-https://www.kaggle.com/code/alokevil/simple-eda-for-beginners/notebook <br />
-https://www.youtube.com/watch?v=YRBdTw9TZPE <br />
-
-- Introduction to AI <br />
-https://becominghuman.ai/introduction-to-artificial-intelligence-5fba0148ec99 <br />
-https://www.youtube.com/watch?v=SSE4M0gcmvE <br />
-
-- Diving deeper into Al : Applications of Al and ML <br />
-https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/ai-vs-machine-learning-vs-deep-learning <br />
-https://www.youtube.com/watch?v=cPZvDg6Tw5Q <br />
-https://www.techtarget.com/searchenterpriseai/definition/machine-learning-ML <br />
 
 
 <h5>ML algorithms</h5> 
