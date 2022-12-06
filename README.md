@@ -1,7 +1,5 @@
 <h1 align="center"> 🤖 <br />
-AI Club IGDTUW </h1>
-
-# ✒️ Resources and Cheatsheets
+AI Club Cheatsheets✒️</h1>
 
 <h5> Github and VScode </h5>
 https://www.python-graph-gallery.com/cheat-sheets/ <br />
